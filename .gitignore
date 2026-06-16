@@ -1,0 +1,28 @@
+.env# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# ChromaDB / Vector DB
+memory_db/
+
+# Uploaded files
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
